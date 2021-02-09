@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=System;
+Comment=Use Proxy Client.
+Exec=/home/user/.config/ProxyAnyWhere/ProxyAnyWhere
+GenericName=ProxyAnyWhere
+Icon=/home/user/.config/ProxyAnyWhere/ico.png
+Name=ProxyAnyWhere
+OnlyShowIn=Deepin;
+Terminal=false
+Type=Application
+X-AppStream-Ignore=true
+X-Deepin-Vendor=user-custom
+Author=QingluanZY
